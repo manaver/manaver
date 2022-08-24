@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Manav Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://avatars2.githubusercontent.com/u/3990291?s=400&v=4" width="300vw" align="right" alt="Coding">
+
+<!-- <img src="https://avatars2.githubusercontent.com/u/3990291?s=400&v=4" width="300vw" align="right" alt="Coding"> -->
+
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=manav32&label=Profile%20views&color=0e75b6&style=flat" alt="manav32" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manav32" alt="manav32" /></a>
 

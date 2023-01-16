@@ -1,7 +1,7 @@
 ![Coding](https://github.com/Manav32/Manav32/blob/2a296d7625d987839a996ebd84250c2aec20e737/image.png)
 
 <h1 align="center">Hi 👋, I'm Manav Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <!-- <img src="https://avatars2.githubusercontent.com/u/3990291?s=400&v=4" width="300vw" align="right" alt="Coding"> -->
 

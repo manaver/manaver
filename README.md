@@ -9,13 +9,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manav32" alt="manav32" /></a>
 
 </p>
-- 🔭 I’m currently working on [E-commerce website](https://github.com/Manav32/E-commerce.git)
+- 🔭 I’m currently working on [tourAndTravels website](https://github.com/Manav32/tourAndTravels)
 
 - 🌱 I’m currently learning **React, Laravel**
 
-- 👯 I’m looking to collaborate on [E-commerce website](https://github.com/Manav32/E-commerce.git)
+- 👯 I’m looking to collaborate on [tourAndTravels website](https://github.com/Manav32/tourAndTravels)
 
-- 🤝 I’m looking for help with [E-commerce website](https://github.com/Manav32/E-commerce.git)
+- 🤝 I’m looking for help with [tourAndTravels website](https://github.com/Manav32/tourAndTravels)
 
 - 💬 Ask me about **React, JavaScript, Tailwind, PHP.**
 

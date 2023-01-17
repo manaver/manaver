@@ -34,7 +34,7 @@
 </div>
 <hr>
 <div align="left">
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left" width="100">Languages and Tools:</h3>
   <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaver&layout=compact" alt="manaver" /></p>
 </div>
 <hr>

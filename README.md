@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manav1924" target="blank"><img align="center" src="https://github.com/manaver/svg/blob/main/twitter-svgrepo-com.png" alt="manaver" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manav-verma-590a92204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manaver" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manaver" height="30" width="40" /></a>
+<a href="https://twitter.com/manav1924" target="blank">Twitter</a>
+<a href="https://linkedin.com/in/manav-verma-590a92204" target="blank">Linkedin</a>
+<a href="https://www.leetcode.com/manav1" target="blank">LeetCode</a>
 </p>
 
 <h3 align="left">Stats:</h3>

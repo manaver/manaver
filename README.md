@@ -28,9 +28,9 @@
 <a href="https://www.leetcode.com/manav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manav1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display:flex; flex-direction:column;">
+<h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manaver&show_icons=true&theme=radical" alt="manaver" /></p>
+<h3 align="left">Languages and Tools:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaver&layout=compact" alt="manaver" /></p>
+<h3 align="left">Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaver&" alt="manaver" /></p>
-<div>

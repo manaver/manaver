@@ -29,9 +29,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
+<div style="display:flex; flex-direction:column;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manaver&show_icons=true&theme=radical" alt="manaver" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=manaver&repo=github-readme-stats" alt="manaver" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaver&layout=compact" alt="manaver" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaver&" alt="manaver" /></p>
+<div>

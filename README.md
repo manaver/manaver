@@ -28,17 +28,17 @@
 <a href="https://www.leetcode.com/manav1" target="blank">LeetCode</a>
 </p>
 
-<div>
+<div align="left">
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manaver&show_icons=true&theme=radical" alt="manaver" /></p>
 </div>
 <hr>
-<div>
+<div align="left">
  <h3 align="left">Languages and Tools:</h3>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manaver&layout=compact" alt="manaver" /></p>
 </div>
 <hr>
-<div>
+<div align="left">
   <h3 align="left">Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manaver&" alt="manaver" /></p>
 </div>

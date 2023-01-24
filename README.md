@@ -1,4 +1,4 @@
-![Coding](https://github.com/manaver/manaver/blob/main/Image.png)
+![Coding](https://github.com/manaver/manaver/blob/manaver-patch-1/image.jpg)
 
 # 💫 About Me:
 ⚡ Fun fact

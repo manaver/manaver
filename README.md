@@ -3,6 +3,12 @@
 # 💫 About Me:
 ⚡ Fun fact
 
+- 🔭 I’m currently working on [Tour And Travel Website](https://github.com/manaver/Tour-Travel.git)
+- 🌱 I’m currently learning **React, Laravel**
+- 👯 I’m looking to collaborate on [Tour And Travel Website](https://github.com/manaver/Tour-Travel.git)
+- 🤝 I’m looking for help with [Tour And Travel Website](https://github.com/manaver/Tour-Travel.git)
+- 💬 Ask me about **React, JavaScript, Tailwind, PHP, Laravel.**
+- 📫 How to reach me **vermamanav117@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manav-verma-590a92204) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Manav1924) 

@@ -1,4 +1,4 @@
-![Coding](https://github.com/manaver/manaver/blob/2a296d7625d987839a996ebd84250c2aec20e737/image.png)
+![Coding](https://github.com/manaver/manaver/blob/2a296d7625d987839a996ebd84250c2aec20e737/Image.png)
 
 <h1 align="center">Hi 👋, I'm Manav Verma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>

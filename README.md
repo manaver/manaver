@@ -3,10 +3,9 @@
 # 💫 About Me:
 ⚡ Fun fact
 
-- 🔭 I’m currently working on [Tour And Travel Website](https://github.com/manaver/Tour-Travel.git)
-- 🌱 I’m currently learning **React, Laravel**
-- 👯 I’m looking to collaborate on [Tour And Travel Website](https://github.com/manaver/Tour-Travel.git)
-- 🤝 I’m looking for help with [Tour And Travel Website](https://github.com/manaver/Tour-Travel.git)
+- 🔭 I’m currently working on a Tour And Travel Website
+- 🌱 I’m currently learning **React, Laravel, Devops**
+- 🤝 I’m looking to collaborate on my Open Source projects
 - 💬 Ask me about **React, JavaScript, Tailwind, PHP, Laravel.**
 - 📫 How to reach me **vermamanav117@gmail.com**
 

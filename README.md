@@ -3,9 +3,8 @@
 # 💫 About Me:
 ⚡ Fun fact
 
-- 🔭 I’m currently working on a Tour And Travel Website
-- 🌱 I’m currently learning **React, Laravel, Devops**
-- 🤝 I’m looking to collaborate on my Open Source projects
+- 🔭 I’m Freelancer
+- 🌱 I’m working with Nextjs and Laravel
 - 💬 Ask me about **React, JavaScript, Tailwind, PHP, Laravel.**
 - 📫 How to reach me **vermamanav117@gmail.com**
 

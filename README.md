@@ -3,10 +3,10 @@
 # 💫 About Me:
 ⚡ Fun fact
 
-- 🔭 I’m Freelancer
+- 🔭 I’m Software Engineer
 - 🌱 I’m working with Nextjs and Laravel
-- 💬 Ask me about **React, JavaScript, Tailwind, PHP, Laravel.**
-- 📫 How to reach me **vermamanav117@gmail.com**
+- 💬 Ask me about **React, Nextjs, JavaScript, Tailwind, PHP, Laravel.**
+- 📫 How to reach me **manavverma.me@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manaver) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Manav1924) 
